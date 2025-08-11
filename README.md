@@ -49,6 +49,22 @@ A supervised ML algorithm for classification tasks, predicting probabilities usi
 
 ---
 
+## 📈 Most Used Languages & Tools
+
+| Skill / Tool        | Proficiency |
+|---------------------|-------------|
+| Google Colab        | ![80%](https://progress-bar.dev/80/?title=80%) |
+| Python              | ![90%](https://progress-bar.dev/90/?title=90%) |
+| Pandas              | ![67%](https://progress-bar.dev/67/?title=67%) |
+| Jupyter Notebook    | ![100%](https://progress-bar.dev/100/?title=100%) |
+| C                   | ![99%](https://progress-bar.dev/99/?title=99%) |
+| NumPy               | ![90%](https://progress-bar.dev/90/?title=90%) |
+| Matplotlib          | ![78%](https://progress-bar.dev/78/?title=78%) |
+| Seaborn             | ![90%](https://progress-bar.dev/90/?title=90%) |
+| Scikit-learn        | ![50%](https://progress-bar.dev/50/?title=50%) |
+
+---
+
 ## 📊 GitHub Stats
 ![Raj's GitHub stats](https://github-readme-stats.vercel.app/api?username=RAJ-15012006&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RAJ-15012006&layout=compact&theme=radical)  
