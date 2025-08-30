@@ -1,76 +1,90 @@
-# 👋 Hi, I'm RAJ SAMRENDRA KUMAR
 
-💡 Passionate about **Machine Learning (ML)**, **Artificial Intelligence (AI)**, and **Data Science**.  
-🚀 Skilled in building end-to-end data-driven solutions — from data preprocessing to deploying ML models.  
-📊 Experienced with **Python**, **NumPy**, **Pandas**, **Scikit-learn**, **TensorFlow**, **PyTorch**, **SQL**, and visualization tools like **Matplotlib** & **Seaborn**.  
 
----
+## Hi 👋, I'm RAJ Samrendra Kumar  
 
-## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raj-samrendra-kumar-85770b2ba/)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/RAJKUMA74293582)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=About.me&logoColor=white)]() <!-- Add your portfolio URL later -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C7F7&center=true&vCenter=true&width=500&lines=ML+Engineer;Data+Science+Enthusiast;AI+Enthusiast;Lifelong+Learner)](https://git.io/typing-svg)
+
+**Aspiring Data Scientist** | **Turning Data Into Insights**
 
 ---
 
-## 📂 Upcoming Projects
-
-### 1️⃣ Feature Engineering
-Feature engineering is the process of creating, transforming, or selecting input variables (features) from raw data to improve the performance of a machine learning model.
-
-### 2️⃣ Data Science Model
-Taken data from Kaggle and calculated accuracy. Data science combines statistics, programming, and domain knowledge to analyze and interpret data.
-
-### 3️⃣ Naive Bayes
-A simple, fast algorithm that uses probabilities to classify data based on Bayes’ theorem. Works well for spam filtering and text classification.
-
-### 4️⃣ K-means
-A clustering algorithm that groups data into K clusters based on similarity.
-
-### 5️⃣ Linear Regression
-A supervised learning algorithm for predicting continuous values by finding the best-fitting line.
-
-### 6️⃣ Logistic Regression
-A supervised ML algorithm for classification tasks, predicting probabilities using the sigmoid function.
-
-... and many more AI/ML models coming soon!
+### 👨‍💻 About Me:
+- 🔭 I’m currently working on **Sentiment Analysis & Feature Engineering**  
+- 🌱 I’m currently learning **Deep Learning, NLP, Cloud AI Services**  
+- 👯 I’m looking to collaborate on **Data Science & AI projects**  
+- 📫 How to reach me: **rajkumar20053773@gmail.com**  
+- ⚡ Fun fact: *I love solving real-world problems with ML!*  
 
 ---
 
-## 🛠 Skills & Tools
+### 🌐 Socials:
+- 📧 **Email:** rajkumar20053773@gmail.com  
+- 💼 **LinkedIn:** [in/raj-samrendra-kumar-85770b2ba](https://www.linkedin.com/in/raj-samrendra-kumar-85770b2ba/)  
+- 🐙 **GitHub:** [RAJ-15012006](https://github.com/RAJ-15012006)  
+
+---
+
+### 📊 Machine Learning & Data Science:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=orange)
-![Data Science](https://img.shields.io/badge/Data%20Science-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-003F5C?style=for-the-badge&logo=plotly&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4EABCF?style=for-the-badge&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+
+---
+
+### 🗄️ Database Management:
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+
+---
+
+### ☁️ Cloud Services:
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+---
+
+### 🖥️ Development & Tools:
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ---
 
-## 📈 Most Used Languages & Tools
-
-| Skill / Tool        | Proficiency |
-|---------------------|-------------|
-| Google Colab        | ![80%](https://progress-bar.dev/80/?title=80%) |
-| Python              | ![90%](https://progress-bar.dev/90/?title=90%) |
-| Pandas              | ![67%](https://progress-bar.dev/67/?title=67%) |
-| Jupyter Notebook    | ![100%](https://progress-bar.dev/100/?title=100%) |
-| C                   | ![99%](https://progress-bar.dev/99/?title=99%) |
-| NumPy               | ![90%](https://progress-bar.dev/90/?title=90%) |
-| Matplotlib          | ![78%](https://progress-bar.dev/78/?title=78%) |
-| Seaborn             | ![90%](https://progress-bar.dev/90/?title=90%) |
-| Scikit-learn        | ![50%](https://progress-bar.dev/50/?title=50%) |
+### 🏆 GitHub Trophies:
+![trophy](https://github-profile-trophy.vercel.app/?username=RAJ-15012006&theme=algolia&row=1&column=6)
 
 ---
 
-## 📊 GitHub Stats
-![Raj's GitHub stats](https://github-readme-stats.vercel.app/api?username=RAJ-15012006&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RAJ-15012006&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RAJ-15012006&theme=radical)
+### 📈 GitHub Stats & Activity:
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=RAJ-15012006&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RAJ-15012006&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RAJ-15012006&theme=tokyonight)  
 
 ---
 
-## 🚀 Fun Fact
-> "The best way to predict the future is to create it — with code."
+### 📌 Pinned Projects:
+- **Feature_Engineering** — Enhancing dataset features to improve ML model performance  
+- **Sentiment-analysis-project** — NLP-based text sentiment detection  
+- **Naive Bayes Classifier** — Spam detection & text classification  
+- **K-Means Clustering** — Grouping data into clusters with ML algorithms  
+- **Linear & Logistic Regression** — Predictive modeling techniques  
+
+---
+
+✨ *“The best way to predict the future is to create it — with code.”*
