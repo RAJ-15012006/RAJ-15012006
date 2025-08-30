@@ -1,7 +1,3 @@
-
-
-
-
 <!-- Hi Section -->
 <h1 align="center">Hi 👋, I'm RAJ Samrendra Kumar</h1>
 <h3 align="center">ML Engineer | Data Science Enthusiast | AI Enthusiast</h3>
@@ -65,6 +61,12 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+---
+
+### 📊 Data Visualization & BI Tools:
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 ---
 
