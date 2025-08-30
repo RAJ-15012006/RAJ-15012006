@@ -1,8 +1,10 @@
 
 
-## Hi 👋, I'm RAJ Samrendra Kumar  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C7F7&center=true&vCenter=true&width=500&lines=ML+Engineer;Data+Science+Enthusiast;AI+Enthusiast;Lifelong+Learner)](https://git.io/typing-svg)
+
+<!-- Hi Section -->
+<h1 align="center">Hi 👋, I'm RAJ Samrendra Kumar</h1>
+<h3 align="center">ML Engineer | Data Science Enthusiast | AI Enthusiast</h3>
 
 **Aspiring Data Scientist** | **Turning Data Into Insights**
 
