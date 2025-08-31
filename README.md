@@ -87,7 +87,15 @@
 - **Sentiment-analysis-project** — NLP-based text sentiment detection  
 - **Naive Bayes Classifier** — Spam detection & text classification  
 - **K-Means Clustering** — Grouping data into clusters with ML algorithms  
-- **Linear & Logistic Regression** — Predictive modeling techniques  
+- **Linear & Logistic Regression** — Predictive modeling techniques
+
+---
+
+# Achievements :
+1) **Regression** : Fine-tuned Linear Regression models with One-Hot Encoding & Imputation techniques, achieving an impressive R² = 0.798 for accurate excavation predictions.
+2) **Classification** : Focused on Random Forest, SVM, & K-Means, optimizing the Random Forest model for 90% accuracy, minimizing misclassifications in excavation categorization.
+3) **Deep Learning Synergy** – Leveraged TensorFlow & Keras to integrate ML models, boosting accuracy to 92% with Fully Connected Neural Networks and advanced optimization techniques.
+4) Achived Microsoft and Oracle Certifications such as AI - 102, AZ - 900, AZ - 104, DP - 100, DP - 900....
 
 ---
 
