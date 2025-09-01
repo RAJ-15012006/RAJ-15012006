@@ -1,3 +1,5 @@
+![MasterHead](https://logicmojo.com/assets/dist/new_pages/images/data-science-intro.gif)
+
 <!-- Hi Section -->
 <h1 align="center">Hi 👋, I'm RAJ Samrendra Kumar</h1>
 <h3 align="center">ML Engineer | Data Science Enthusiast | AI Enthusiast</h3>
@@ -88,6 +90,14 @@
 - **Naive Bayes Classifier** — Spam detection & text classification  
 - **K-Means Clustering** — Grouping data into clusters with ML algorithms  
 - **Linear & Logistic Regression** — Predictive modeling techniques
+
+---
+
+## 🌐 Contribution Graph — Raj Samrendra Kumar
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RAJ-15012006&theme=react-dark&hide_border=true&area=true" />
+</p>
 
 ---
 
