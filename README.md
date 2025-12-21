@@ -49,7 +49,7 @@
   </a>
 
   <!-- Resume -->
-  <a href="https://github.com/RAJ-15012006/RAJ-15012006/raw/main/resume/Raj_Samrendra_Kumar_Resume.pdf" target="_blank">
+  <a href="resume_main (1).pdf" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adobeacrobatreader/adobeacrobatreader-original.svg"
          height="35" width="45" alt="Resume"/>
   </a>
