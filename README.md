@@ -1,113 +1,239 @@
-![MasterHead](https://logicmojo.com/assets/dist/new_pages/images/data-science-intro.gif)
+<!-- ================= HERO ================= -->
+<img src="https://logicmojo.com/assets/dist/new_pages/images/data-science-intro.gif" width="100%"/>
 
-<!-- Hi Section -->
-<h1 align="center">Hi 👋, I'm RAJ Samrendra Kumar</h1>
-<h3 align="center">ML Engineer | Data Science Enthusiast | AI Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm <span style="color:#4CAF50;">Raj Samrendra Kumar</span></h1>
+<h3 align="center">Machine Learning Engineer | Data Science | GenAI & RAG Enthusiast</h3>
 
-**Aspiring Data Scientist** | **Turning Data Into Insights**
-
----
-
-### 👨‍💻 About Me:
-- 🔭 I’m currently working on **Sentiment Analysis & Feature Engineering**  
-- 🌱 I’m currently learning **Deep Learning, NLP, Cloud AI Services**  
-- 👯 I’m looking to collaborate on **Data Science & AI projects**  
-- 📫 How to reach me: **rajkumar20053773@gmail.com**  
-- ⚡ Fun fact: *I love solving real-world problems with ML!*  
-
----
-
-### 🌐 Socials:
-- 📧 **Email:** [rajkumar20053773@gmail.com](mailto:rajkumar20053773@gmail.com)  
-- 💼 **LinkedIn:** [in/raj-samrendra-kumar-85770b2ba](https://www.linkedin.com/in/raj-samrendra-kumar-85770b2ba/)  
-- 🐙 **GitHub:** [RAJ-15012006](https://github.com/RAJ-15012006)  
-- 🌐 **Portfolio:** [portfolio-one-smoky-63.vercel.app](https://portfolio-one-smoky-63.vercel.app/)  
-
----
-
-### 📊 Machine Learning & Data Science:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4EABCF?style=for-the-badge&logo=python&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-
----
-
-### 🗄️ Database Management:
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
-
----
-
-### ☁️ Cloud Services:
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-
----
-
-### 🖥️ Development & Tools:
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
----
-
-### 📊 Data Visualization & BI Tools:
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-
----
-
-### 🏆 GitHub Trophies:
-![trophy](https://github-profile-trophy.vercel.app/?username=RAJ-15012006&theme=algolia&row=1&column=6)
-
----
-
-### 📈 GitHub Stats & Activity:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=RAJ-15012006&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RAJ-15012006&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RAJ-15012006&theme=tokyonight)  
-
----
-
-### 📌 Pinned Projects:
-- **Feature_Engineering** — Enhancing dataset features to improve ML model performance  
-- **Sentiment-analysis-project** — NLP-based text sentiment detection  
-- **Naive Bayes Classifier** — Spam detection & text classification  
-- **K-Means Clustering** — Grouping data into clusters with ML algorithms  
-- **Linear & Logistic Regression** — Predictive modeling techniques
-
----
-
-## 🌐 Contribution Graph — Raj Samrendra Kumar
+<img align="right" width="380" src="https://pgmatrix.net/wp-content/uploads/2021/10/home-version-8-banner-image.webp"/>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RAJ-15012006&theme=react-dark&hide_border=true&area=true" />
+  <img src="https://komarev.com/ghpvc/?username=RAJ-15012006&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
 ---
 
-# Achievements :
-1) **Regression** : Fine-tuned Linear Regression models with One-Hot Encoding & Imputation techniques, achieving an impressive R² = 0.798 for accurate excavation predictions.
-2) **Classification** : Focused on Random Forest, SVM, & K-Means, optimizing the Random Forest model for 90% accuracy, minimizing misclassifications in excavation categorization.
-3) **Deep Learning Synergy** – Leveraged TensorFlow & Keras to integrate ML models, boosting accuracy to 92% with Fully Connected Neural Networks and advanced optimization techniques.
-4) Achived Microsoft and Oracle Certifications such as AI - 102, AZ - 900, AZ - 104, DP - 100, DP - 900....
+## 👨‍💻 About Me
+- 🔭 Building **ML, NLP, GenAI & RAG systems**
+- 🌱 Learning **LLMs, Vector DBs, Cloud AI**
+- 👯 Open to **AI / ML internships & collaborations**
+- 📫 **rajkumar20053773@gmail.com**
+- ⚡ *I turn ideas into production-ready ML systems*
 
 ---
 
-✨ *“The best way to predict the future is to create it — with code.”*
+## 🤝 Connect with me:
+
+<p align="left">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/raj-samrendra-kumar-85770b2ba/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+         height="35" width="45" alt="LinkedIn"/>
+  </a>
+
+  <!-- LeetCode -->
+  <a href="https://leetcode.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
+         height="35" width="45" alt="LeetCode"/>
+  </a>
+
+  <!-- Kaggle -->
+  <a href="https://www.kaggle.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg"
+         height="35" width="45" alt="Kaggle"/>
+  </a>
+
+  <!-- Portfolio -->
+  <a href="https://portfolio-one-smoky-63.vercel.app/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg"
+         height="35" width="45" alt="Portfolio"/>
+  </a>
+
+  <!-- Resume -->
+  <a href="https://github.com/RAJ-15012006/RAJ-15012006/raw/main/resume/Raj_Samrendra_Kumar_Resume.pdf" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adobeacrobatreader/adobeacrobatreader-original.svg"
+         height="35" width="45" alt="Resume"/>
+  </a>
+</p>
+
+---
+
+
+
+---
+
+
+## 🧠 Core Skills
+**Python • Machine Learning • NLP • Deep Learning • GenAI • RAG • SQL • Cloud**
+
+---
+
+# 🧩 Projects Showcase (Hover + Clickable)
+
+> 🖱️ *Hover over tiles on GitHub dark mode – clean animated effect*
+
+---
+
+## 🔬 Data Science & Machine Learning
+
+<table>
+<tr>
+
+<td align="center">
+<a href="https://github.com/RAJ-15012006/brain-tumor-detection">
+<img src="https://img.shields.io/badge/Brain_Tumor_Detection-Deep_Learning_for_MRI-red?style=for-the-badge"/>
+</a>
+<br/>
+📄 CNN-based MRI classification  
+🎯 Improved diagnostic accuracy
+</td>
+
+<td align="center">
+<a href="https://github.com/RAJ-15012006/Prediction_Of_Ticket_Cancellation_Accscore">
+<img src="https://img.shields.io/badge/Ticket_Cancellation-Prediction-brightgreen?style=for-the-badge"/>
+</a>
+<br/>
+📄 ML prediction system  
+🎯 Reduced cancellation risk
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+<a href="https://github.com/RAJ-15012006/Iris-Flower-Classification-KNN-AND-DT-">
+<img src="https://img.shields.io/badge/Iris_Classification-KNN_&_DT-blue?style=for-the-badge"/>
+</a>
+<br/>
+📄 Classical ML comparison  
+🎯 Model accuracy optimization
+</td>
+
+<td align="center">
+<a href="https://github.com/RAJ-15012006/Sales-Forecasting-System">
+<img src="https://img.shields.io/badge/Sales_Forecasting-ML_Based-grey?style=for-the-badge"/>
+</a>
+<br/>
+📄 Time-series forecasting  
+🎯 Business decision support
+</td>
+
+</tr>
+</table>
+
+---
+
+## 🤖 GenAI & RAG Projects (🔥 HIGH VALUE)
+
+<table>
+<tr>
+
+<td align="center">
+<a href="https://github.com/RAJ-15012006/LinguaMood.AI">
+<img src="https://img.shields.io/badge/LinguaMood.AI-NLP_Emotion_Detection-purple?style=for-the-badge"/>
+</a>
+<br/>
+📄 NLP emotion detection  
+🧠 Transformer-based text analysis
+</td>
+
+<td align="center">
+<a href="https://github.com/RAJ-15012006/generative-AI-anime-face">
+<img src="https://img.shields.io/badge/Generative_AI-Anime_Face-orange?style=for-the-badge"/>
+</a>
+<br/>
+📄 GAN-based image generation  
+🧠 GenAI creativity system
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+<a href="https://github.com/RAJ-15012006/chatbot.AI">
+<img src="https://img.shields.io/badge/Chatbot_AI-Multi_Language_Voice_Assistant-ff0066?style=for-the-badge"/>
+</a>
+<br/>
+📄 Speech-to-text chatbot  
+🧠 LLM + NLP pipeline
+</td>
+
+<td align="center">
+<a href="#">
+<img src="https://img.shields.io/badge/RAG_System-Document_QA-blueviolet?style=for-the-badge"/>
+</a>
+<br/>
+📄 Retrieval-Augmented Generation  
+🧠 Vector DB + LLM reasoning
+</td>
+
+</tr>
+</table>
+
+---
+
+## 📊 Data Analysis Projects
+
+<table>
+<tr>
+
+<td align="center">
+<a href="https://github.com/RAJ-15012006/COVID-19-data-analysis-">
+<img src="https://img.shields.io/badge/COVID--19-Data_Analysis-brown?style=for-the-badge"/>
+</a>
+<br/>
+📄 Trend & impact analysis
+</td>
+
+<td align="center">
+<a href="https://github.com/RAJ-15012006/youtube-analysis-">
+<img src="https://img.shields.io/badge/YouTube-Analytics-orange?style=for-the-badge"/>
+</a>
+<br/>
+📄 Engagement insights
+</td>
+
+</tr>
+</table>
+
+---
+
+## 🗄️ Database Project
+
+<table>
+<tr>
+<td align="center">
+<a href="https://github.com/RAJ-15012006/Google-like-Employee-Project-Management-System-PostgreSQL">
+<img src="https://img.shields.io/badge/Employee_Management_System-PostgreSQL-success?style=for-the-badge"/>
+</a>
+<br/>
+📄 Relational DB design & queries
+</td>
+</tr>
+</table>
+
+---
+
+## 📈 GitHub Insights
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RAJ-15012006&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=RAJ-15012006&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAJ-15012006&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RAJ-15012006&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RAJ-15012006&theme=react-dark"/>
+</p>
+
+---
+
+<h3 align="center">🚀 “I build ML systems, not just notebooks.”</h3>
