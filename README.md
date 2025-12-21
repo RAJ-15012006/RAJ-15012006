@@ -49,73 +49,132 @@
   </a>
 
   <!-- Resume -->
-  <a href="resume_main (1).pdf" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adobeacrobatreader/adobeacrobatreader-original.svg"
-         height="35" width="45" alt="Resume"/>
+ ## 📄 Resume
+
+[👉 **VIEW RESUME**](./resume_main%20(1).pdf)
+
   </a>
 </p>
-
----
-
 
 
 ---
 
 
 ## 🧠 Core Skills
-**Python • Machine Learning • NLP • Deep Learning • GenAI • RAG • SQL • Cloud**
+
+## 💻 Languages & Programming
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+</p>
 
 ---
 
-# 🧩 Projects Showcase (Hover + Clickable)
+## 🤖 AI Tools
 
-> 🖱️ *Hover over tiles on GitHub dark mode – clean animated effect*
+<p align="left">
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NLP-0A66C2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CNN-Convolutional_Neural_Networks-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ANN-Artificial_Neural_Networks-6A1B9A?style=for-the-badge"/>
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Deep_Learning-FF4081?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Computer_Vision-2E7D32?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/GenAI-4285F4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Prompt_Engineering-000000?style=for-the-badge"/>
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Reinforcement_Learning-009688?style=for-the-badge"/>
+</p>
+
 
 ---
 
-## 🔬 Data Science & Machine Learning
+## 🧩 Frameworks & Libraries
+
+<p align="left">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+</p>
+
+---
+
+## 📊 Data Visualization & Cloud
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3dotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Data_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+</p>
+
+---
+
+# 🧩 Projects Showcase 
+
+
+## 🔬 Data Science & Machine Learning (IMP PROJECTS)
 
 <table>
 <tr>
 
+<!-- Stock Market Analysis -->
 <td align="center">
-<a href="https://github.com/RAJ-15012006/brain-tumor-detection">
-<img src="https://img.shields.io/badge/Brain_Tumor_Detection-Deep_Learning_for_MRI-red?style=for-the-badge"/>
-</a>
-<br/>
-📄 CNN-based MRI classification  
-🎯 Improved diagnostic accuracy
+  <img src="https://img.shields.io/badge/Stock_Market_Analysis-ML_&_Data_Science-orange?style=for-the-badge"/>
+  <br/><br/>
+  📄 Market trend & pattern analysis  
+  🎯 Data-driven investment insights
 </td>
 
+<!-- Diabetes Prediction -->
 <td align="center">
-<a href="https://github.com/RAJ-15012006/Prediction_Of_Ticket_Cancellation_Accscore">
-<img src="https://img.shields.io/badge/Ticket_Cancellation-Prediction-brightgreen?style=for-the-badge"/>
-</a>
-<br/>
-📄 ML prediction system  
-🎯 Reduced cancellation risk
+  <img src="https://img.shields.io/badge/Diabetes_Prediction-Prediction-green?style=for-the-badge"/>
+  <br/><br/>
+  📄 ML-based disease prediction  
+  🎯 Early risk identification support
 </td>
 
 </tr>
 
 <tr>
 
+<!-- Breast Cancer Analysis -->
 <td align="center">
-<a href="https://github.com/RAJ-15012006/Iris-Flower-Classification-KNN-AND-DT-">
-<img src="https://img.shields.io/badge/Iris_Classification-KNN_&_DT-blue?style=for-the-badge"/>
-</a>
-<br/>
-📄 Classical ML comparison  
-🎯 Model accuracy optimization
+  <img src="https://img.shields.io/badge/Breast_Cancer_Analysis-ML-blue?style=for-the-badge"/>
+  <br/><br/>
+  📄 Medical data classification  
+  🎯 Improved diagnosis accuracy
 </td>
 
+<!-- Sentiment Analysis -->
 <td align="center">
-<a href="https://github.com/RAJ-15012006/Sales-Forecasting-System">
-<img src="https://img.shields.io/badge/Sales_Forecasting-ML_Based-grey?style=for-the-badge"/>
-</a>
-<br/>
-📄 Time-series forecasting  
-🎯 Business decision support
+  <img src="https://img.shields.io/badge/Sentiment_Analysis-AI-purple?style=for-the-badge"/>
+  <br/><br/>
+  📄 NLP-based text sentiment detection  
+  🎯 Opinion & emotion analysis
 </td>
 
 </tr>
@@ -129,21 +188,11 @@
 <tr>
 
 <td align="center">
-<a href="https://github.com/RAJ-15012006/LinguaMood.AI">
-<img src="https://img.shields.io/badge/LinguaMood.AI-NLP_Emotion_Detection-purple?style=for-the-badge"/>
-</a>
-<br/>
-📄 NLP emotion detection  
-🧠 Transformer-based text analysis
+  🚧 <strong>COMING SOON</strong> 🚧
 </td>
 
 <td align="center">
-<a href="https://github.com/RAJ-15012006/generative-AI-anime-face">
-<img src="https://img.shields.io/badge/Generative_AI-Anime_Face-orange?style=for-the-badge"/>
-</a>
-<br/>
-📄 GAN-based image generation  
-🧠 GenAI creativity system
+  🚧 <strong>COMING SOON</strong> 🚧
 </td>
 
 </tr>
@@ -151,25 +200,16 @@
 <tr>
 
 <td align="center">
-<a href="https://github.com/RAJ-15012006/chatbot.AI">
-<img src="https://img.shields.io/badge/Chatbot_AI-Multi_Language_Voice_Assistant-ff0066?style=for-the-badge"/>
-</a>
-<br/>
-📄 Speech-to-text chatbot  
-🧠 LLM + NLP pipeline
+  🚧 <strong>COMING SOON</strong> 🚧
 </td>
 
 <td align="center">
-<a href="#">
-<img src="https://img.shields.io/badge/RAG_System-Document_QA-blueviolet?style=for-the-badge"/>
-</a>
-<br/>
-📄 Retrieval-Augmented Generation  
-🧠 Vector DB + LLM reasoning
+  🚧 <strong>COMING SOON</strong> 🚧
 </td>
 
 </tr>
 </table>
+
 
 ---
 
@@ -187,12 +227,12 @@
 </td>
 
 <td align="center">
-<a href="https://github.com/RAJ-15012006/youtube-analysis-">
-<img src="https://img.shields.io/badge/YouTube-Analytics-orange?style=for-the-badge"/>
-</a>
-<br/>
-📄 Engagement insights
+  <img src="https://img.shields.io/badge/Bangalore_Restaurant_Zomato_Analysis-Power_BI-orange?style=for-the-badge"/>
+  <br/><br/>
+  📄 Restaurant performance & customer trend analysis  
+  🎯 Actionable business insights using interactive dashboards
 </td>
+
 
 </tr>
 </table>
@@ -236,4 +276,5 @@
 
 ---
 
-<h3 align="center">🚀 “I build ML systems, not just notebooks.”</h3>
+<h3 align="center"> 🚀 “Designing intelligent systems powered by data.”
+</h3>
