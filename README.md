@@ -47,12 +47,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg"
          height="35" width="45" alt="Portfolio"/>
   </a>
-
-  <!-- Resume -->
- ## 📄 Resume
-
-[👉 **VIEW RESUME**](autoCV__1_ (5).pdf)
-
+  
   </a>
 </p>
 
