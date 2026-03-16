@@ -51,7 +51,7 @@
   <!-- Resume -->
  ## 📄 Resume
 
-[👉 **VIEW RESUME**](./resume_main%20(1).pdf)
+[👉 **VIEW RESUME**](autoCV__1_ (5).pdf)
 
   </a>
 </p>
